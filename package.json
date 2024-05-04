@@ -2,7 +2,7 @@
 	"name": "@sivu-app/next",
 	"description": "A set of tools used for a particular purpose",
 	"license": "MIT",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
