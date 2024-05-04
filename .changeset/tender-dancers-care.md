@@ -1,5 +1,5 @@
 ---
-"@sivu/next": patch
+"@sivu-app/next": patch
 ---
 
-rename to @sivu/next
+rename to @sivu-app/next
